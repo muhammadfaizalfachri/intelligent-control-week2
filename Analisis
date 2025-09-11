@@ -1,0 +1,3 @@
+Pada percobaan kali ini membuat program mendeteksi warna dengan menampilkan tingkat akurasi sebuah deteksi warna, pada program yang sudah dibuat menggunakan dataset berbagai warna dari mulai warna primer hingga warna sekunder. 
+Pembacaan tingkat akurasi sebuah warna sangat bergantung dengan kondisi cahaya disekitar dan juga kemampuan kamera yang digunakan untuk menangkap gambar.
+Semakin banyak dataset yang digunakan maka tingkat akurasi sebuah warna yang dideteksi menurut saya akan semakin rendah juga.
