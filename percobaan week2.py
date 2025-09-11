@@ -72,7 +72,7 @@ while True:
                   (B_pred, G_pred, R_pred), -1)
 
     # Text info
-    cv2.putText(frame, f'Prediksi: {color_pred}', (50, 50),
+    cv2.putText(frame, f'Warna: {color_pred}', (50, 50),
                 cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 0), 2)
     cv2.putText(frame, f'Akurasi: {accuracy:.2f}%', (50, 90),
                 cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 0), 2)
